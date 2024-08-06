@@ -1,4 +1,4 @@
-# 💻 React Developer | [Your Name]
+# 💻 React Developer | Aryan Dantani
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
 [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 Hello, I'm [Your Name]!
+### 👋 Hello, I'm Aryan Dantani!
 
 I'm a passionate React developer with a love for creating dynamic and responsive web applications. My journey in web development began with a curiosity for how the web works, and it has grown into a fulfilling career.
 
@@ -109,4 +109,4 @@ A brief description of the project, what technologies were used, and what proble
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From Aryan Dantani (https://github.com/yourusername)
