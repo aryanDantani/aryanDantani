@@ -91,7 +91,7 @@ A brief description of the project, what technologies were used, and what proble
 
 ## 📫 Get in Touch
 
-- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+- **Email:** [dantaniaryan47@gmail.com](mailto:dantaniaryan47@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Website:** [yourwebsite.com](https://yourwebsite.com)
 
