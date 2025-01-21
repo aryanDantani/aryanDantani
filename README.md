@@ -126,4 +126,4 @@ A brief description of the project, what technologies were used, and what proble
 
 ---
 
-⭐️ From Aryan Dantani (https://github.com/yourusername)
+⭐️ From Aryan Dantani (https://github.com/aryanDantani)
