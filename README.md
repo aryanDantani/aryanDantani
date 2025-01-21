@@ -1,7 +1,7 @@
 # 💻 Full Stack Developer | Aryan Dantani
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:dantaniaryan47@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dantaniaryan47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantaniaryan47@gmail.com)](mailto:dantaniaryan47@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)]([https://github.com/yourusername?tab=followers](https://github.com/aryanDantani))
 [![Website Badge](https://img.shields.io/badge/-yourwebsite.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
