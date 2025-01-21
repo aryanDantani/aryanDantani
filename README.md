@@ -11,7 +11,9 @@
 
 ### 👋 Hello, I'm Aryan Dantani!
 
-I'm a passionate React developer with a love for creating dynamic and responsive web applications. My journey in web development began with a curiosity for how the web works, and it has grown into a fulfilling career.
+I am a dedicated full-stack developer passionate about building dynamic, scalable, and user-friendly web applications. My journey in web development began with a deep curiosity about how the web functions, which has grown into a rewarding career fueled by continuous learning and innovation."
+
+Let me know if you'd like to make any further adjustments!
 
 ---
 
