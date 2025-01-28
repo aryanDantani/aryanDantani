@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-dantani-674278305/)](https://www.linkedin.com/in/aryan-dantani-674278305/)
 [![Gmail Badge](https://img.shields.io/badge/-dantaniaryan47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantaniaryan47@gmail.com)](mailto:dantaniaryan47@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)]([https://github.com/yourusername?tab=followers](https://github.com/aryanDantani))
-[![Website Badge](https://img.shields.io/badge/-yourwebsite.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![Website Badge](https://img.shields.io/badge/-yourwebsite.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://678dfa77a918b700084b92b3--aryan-dantani-portfolio.netlify.app/)](https://678dfa77a918b700084b92b3--aryan-dantani-portfolio.netlify.app/)
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="100%"/>
 
