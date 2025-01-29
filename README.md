@@ -108,7 +108,7 @@ A brief description of the project, what technologies were used, and what proble
 ## 📫 Get in Touch
 
 - **Email:** [dantaniaryan47@gmail.com](mailto:dantaniaryan47@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aryan-dantani-674278305/)
 - **Website:** [https://678dfa77a918b700084b92b3--aryan-dantani-portfolio.netlify.app/](https://678dfa77a918b700084b92b3--aryan-dantani-portfolio.netlify.app/)
 
 ---
