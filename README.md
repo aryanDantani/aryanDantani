@@ -90,10 +90,6 @@ A brief description of the project, what technologies were used, and what proble
 
 ---
 
-## 🚀 Full-Stack Developer | Passionate Problem Solver | Continuous Learner
-
----
-
 ## 📈 GitHub Stats
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanDantani&show_icons=true&theme=radical&hide_title=true)  
