@@ -92,17 +92,6 @@ A brief description of the project, what technologies were used, and what proble
 
 ## 🚀 Full-Stack Developer | Passionate Problem Solver | Continuous Learner
 
-### 🏆 Achievements:
-- 💻 Built a multi-store **e-commerce platform (MultiMart)** using **React, Node.js, TypeORM, MySQL**  
-- 🚀 Integrated secure authentication with **JWT**, **Formik validations**, and **Redux Toolkit**  
-- 📊 Developed real-time chat applications using **WebSockets** and **Node.js**  
-- 🛒 Implemented cart, user state management, and protected routes using **Redux Toolkit** and **React Router v6**  
-- 🌐 Proficient in building modern **React** dashboards with **Chart.js**, **D3.js**, and data visualization  
-- 💡 Experienced in **Angular 19** with **CRUD operations**, **image uploads**, and custom **pipes**  
-- 🌿 Expert in **TypeORM**, **MongoDB**, and **MySQL** for scalable backend architectures  
-- 🧩 Strong understanding of **MobX** for state management in **TypeScript** projects  
-- 🏆 Consistently contributing to open-source projects and collaborating with the dev community  
-
 ---
 
 ## 📈 GitHub Stats
