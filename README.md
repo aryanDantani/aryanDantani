@@ -108,7 +108,11 @@ A brief description of the project, what technologies were used, and what proble
 ## 📈 GitHub Stats
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanDantani&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanDantani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanDantani&layout=compact&theme=radical)  
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=aryanDantani&theme=radical&column=4)
+
 
 ---
 
