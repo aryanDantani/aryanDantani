@@ -1,5 +1,3 @@
-
-
 # 💻 Full Stack Developer | Aryan Dantani
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-dantani-674278305/)](https://www.linkedin.com/in/aryan-dantani-674278305/)
