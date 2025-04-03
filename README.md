@@ -1,6 +1,3 @@
-
-
-
 **
 # 💻 Full Stack Developer | Aryan Dantani
 
